@@ -1,4 +1,7 @@
 # Hi there 👋 I'm Cong Hieu
+<div align="center">
+    <img width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
+</div>
 
 ## [📖My Portfolio](https://pchp-ortfolio.vercel.app/)
 
