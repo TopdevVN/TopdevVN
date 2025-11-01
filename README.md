@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Cong Hieu
 <div align="center">
-    <img width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
+    <img width="250" src="https://www.lambdatest.com/resources/images/news24.gif">
 </div>
 
 ### 🌐Socials
